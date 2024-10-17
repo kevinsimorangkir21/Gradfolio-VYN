@@ -29,9 +29,9 @@ Kuis 1 pada Tutorial Matematika Dasar 1B ini dirancang untuk menguji pemahaman m
 
 #### 1.2 Learning Outcome
 
-- Sistem Bilangan Riil, Relasi dan Fungsi (Lanjutan)
-- Limit & Kekontinuan
-- Turunan
+- Sistem Bilangan Riil, Relasi dan Fungsi (Lanjutan) `br`
+- Limit & Kekontinuan `br`
+- Turunan `br`
 - Aplikasi Turunan + Lanjutan
 
 #### 1.3. Pre-requisite

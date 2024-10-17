@@ -6,11 +6,12 @@ published: true
 ---
 # Basic Mathematics Tutorial 1B (MA 1104)
 
-**Locate / Place:**-
-**Via:** Offline
-**Date:** 18 Oktober 2024
-**Supervisor:** -
+**Locate / Place:** -  
+**Via:** Offline  
+**Date:** 18 Oktober 2024  
+**Supervisor:** -  
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
+
 
 
 ## Updates and Announcements
@@ -29,16 +30,12 @@ Kuis 1 pada Tutorial Matematika Dasar 1B ini dirancang untuk menguji pemahaman m
 
 #### 1.2 Learning Outcome
 
-- Sistem Bilangan Riil, Relasi dan Fungsi (Lanjutan) `br`
-- Limit & Kekontinuan `br`
-- Turunan `br`
+- Sistem Bilangan Riil, Relasi dan Fungsi (Lanjutan)
+- Limit & Kekontinuan
+- Turunan 
 - Aplikasi Turunan + Lanjutan
 
-#### 1.3. Pre-requisite
-
-_Please refer to the curriculum books_
-
-#### 1.4. Rules
+#### 1.3. Rules
 
 - Kuis akan dilaksanakan pada tanggal 18 Oktober 2024 dengan durasi 1 jam 45 menit.
 - Topik yang diujikan mencakup materi dari selama tutorial ini.
@@ -47,7 +44,7 @@ _Please refer to the curriculum books_
 - Tidak ada penambahan waktu / remidial / susulan.
 - Tidak diperbolehkan bertanya kepada peserta lain (ketahuan = 0)
 
-#### 1.5. Cheatsheet
+#### 1.4. Cheatsheet
 - Buatlah sebuah cheatsheet yang merangkum poin-poin penting dari Tutorial . Cheatsheet ini harus membantu pemahaman materi secara singkat dan efektif.
 - Cheatsheet harus dibuat dalam format 1 halaman A4
 - Boleh diprint/ditulis tangan

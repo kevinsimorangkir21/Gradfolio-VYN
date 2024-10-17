@@ -5,6 +5,6 @@ permalink: /contact/
 published: true
 ---
 
-I enthusiastically embrace opportunities to voluntarily share my expertise through seminars, discussions, training sessions, research collaborations, and various knowledge-sharing platforms.
+I enthusiastically take the opportunity to volunteer and willingly help with webinars, collaborations, training, committee events, and sharing experiences.
 
-Please feel free to contact me through email without any hesitation [martin.manullang@if.itera.ac.id](mailto:martin.manullang@if.itera.ac.id)
+Please feel free to contact me through email without any hesitation: <mastercamp436@gmail.com>.

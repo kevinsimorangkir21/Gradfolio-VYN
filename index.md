@@ -3,12 +3,8 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: KEVINS.jpg
 published: true
 ---
 
-Dedicating my life to live in the world of technology as a researcher and academician. Having an interest in the field of human related technology, especially in computer vision and healthcare technology.
-
-An avid music enthusiast, dedicating my free time to the serious craft of music production, composition, arrangement, mixing, and mastering.
-
-Live in a productive ecosystem, love automation and planning at work and leverage technology for productivity. Saved by grace through faith.
+I am a student majoring in Informatics Engineering with various relevant experiences according to my interests. I have xpertise in creating a website in a community and organization. I also have expertise in creating a UI and UX design both desktop and mobile visuals. And currently working in the world of UI / UX.

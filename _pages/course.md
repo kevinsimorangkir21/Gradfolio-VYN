@@ -6,11 +6,13 @@ published: true
 ---
 
 # 2024/2025 Courses
-- [IF4021 Multimedia Technology](/course/if4021)
-- [IF3024 Digital Signal Processing](/course/if3024)
-- [IF4025 Pervasive Computing](/course/if4025)
 
-To view the courses from previous website, please visit [this link](https://mctosima.notion.site/Course-fc332b97ad604458bced22e09bb0cb36)
+- [MA1104 Basic Mathematics Tutorial 1B](./ma1104.html)
+
+# 2023/2024 Courses
+
+- [MA1204 Basic Mathematics Tutorial 2B](/course/MA1204)
+
 
 <!-- <div class="ProjectContainer">
 

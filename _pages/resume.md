@@ -4,13 +4,11 @@ layout: default
 permalink: /resume/
 published: true
 ---
-
-***
+---
 
 # Resume
 
-> Hi, I am Martin. I am currently pursuing a doctoral program at the [Electronics and Computer Engineering Department](https://www.ceecs.ntust.edu.tw/), [NTUST](https://ntust.edu.tw/). I'm also a faculty member of [Program Studi Teknik Informatika](http://if.itera.ac.id/), Institut Teknologi Sumatera ([ITERA](http://itera.ac.id/)), a state engineering university located in Lampung.
-> 
+> Hi, I am X. I am currently pursuing a doctoral program at the [Electronics and Computer Engineering Department](https://www.ceecs.ntust.edu.tw/), [NTUST](https://ntust.edu.tw/). I'm also a faculty member of [Program Studi Teknik Informatika](http://if.itera.ac.id/), Institut Teknologi Sumatera ([ITERA](http://itera.ac.id/)), a state engineering university located in Lampung.
 
 - **Full Name :** Martin Clinton Tosima Manullang, S.T., M.T.
 - **NIP.:** 19930109 201903 1 017
@@ -29,6 +27,7 @@ published: true
 - Doctoral : Currently Enrolled in Ph.D. Program - Department of Electronics and Computer Engineering, National Taiwan University of Science and Technology
 
 # Research Interest
+
 Human-centered applications, healthcare technology, multimedia processing, computer vision
 
 # Academic Society
@@ -39,12 +38,13 @@ Human-centered applications, healthcare technology, multimedia processing, compu
 ---
 
 # Publication
+
 - A. K. Rizkita, R. I. Kesuma, and **M. C. T. Manullang**, “Smart camera for visitor recording based on face recognition in automatic gates (case study: New normal protocols in Institut Teknologi Sumatera),” in 3RD CONFERENCE ON INNOVATION IN TECHNOLOGY AND ENGINEERING SCIENCE 2022 (CITES2022): Innovation in Technology and Science for New Era of Engineering Professionalism, AIP Publishing, 2024.
 - I. Aprini and **M. C. T. Manullang**, “Adapting remote photoplethysmography for Indonesian subjects: an examination of diverse rPPG techniques,” *JITEL (Jurnal Ilmiah Telekomunikasi, Elektronika, dan Listrik Tenaga)*, vol. 3, no. 3, pp. 165–180, Sep. 2023
 - **M. C. T. Manullang**, Y. T. Siswanto, and N. Resfita, “A low-cost notion to monitor and diagnose obstructive sleep apnea (ideas for an affordable sleep test in Indonesia),” *AIP Conference Proceedings*, vol. 2623, no. 1, Aug. 2023
 - F. Novaldi, I. Amrulloh, I. W. W. Wisesa, and **M. C. T. Manullang**, “Pendeteksian Pelanggaran Pada Penyebrangan Jalan Menggunakan Single-Shot Detector Pada ESP32,” *TEMATIK*, vol. 9, no. 2, pp. 119–127, Dec. 2022
 - R. I. Kesuma, R. Fernandes, and **M. C. T. Manullang**, “Automatic Gate for Body Temperature Check and Masks Wearing Compliance Using an Embedded System and Deep Learning,” *Khazanah Informatika : Jurnal Ilmu Komputer dan Informatika*
-, vol. 8, no. 1, Mar. 2022
+  , vol. 8, no. 1, Mar. 2022
 - **M. C. T. Manullang**, Y.-H. Lin, S.-J. Lai, and N.-K. Chou, “Implementation of Thermal Camera for Non-Contact Physiological Measurement: A Systematic Review,” *Sensors* , vol. 21, no. 23, p. 7777, Nov. 2021.
 - **Manullang, M. C. T.**, & Resfita, N. (2021). Implementasi Penghitung Laju Respirasi pada Sistem Polisomnografi menggunakan Mikrofon dan Arduino Nano. Jurnal Teknologi Terpadu, 7(1), 59-64.
 - G. D. Ramady, G. M. Rahmatullah, **M. C. T. Manullang**, A. F. Zulkarnain, R. Sufyani, and R. Hidayat, “QoS Analysis on Campus Building Network Infrastructure with WDS Technique using PCQ Method,” J. Phys.: Conf. Ser., vol. 1783, no. 1, p. 012023, Feb. 2021, doi: 10.1088/1742-6596/1783/1/012023.
@@ -110,6 +110,7 @@ Human-centered applications, healthcare technology, multimedia processing, compu
 - (2020) Head of Technology Transfer Division, Center for Intellectual Property and Rights, ITERA
 
 # Musical Achievement
+
 - Jakarta MRT jingle competition finalist (2017)
 - Festival Jury: Sound Engineering ITERA (2019), Swarnafest ITERA (2020)
 - Finalist of Indra Lesaman Project (ILP), FOH Sound Engineer Audition (2016)

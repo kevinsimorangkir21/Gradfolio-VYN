@@ -1,0 +1,41 @@
+// Add this in _custom.scss or similar file
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    // Add more styling as needed
+}
+.student-image {
+    height: 200px; /* Fixed height */
+    width: auto; /* Width adjusts proportionally */
+    display: block;
+    margin-bottom: 1px;
+    object-fit: cover; /* Ensures the image covers the area without stretching */
+}
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%; /* each column takes full width on small screens */
+        margin-bottom: 20px; /* add some space between columns */
+    }
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: transparent;
+  }
+

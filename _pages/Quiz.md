@@ -9,7 +9,7 @@ published: true
 **Locate / Place:** -  
 **Via:** Offline  
 **Date:** 18 Oktober 2024  
-**Supervisor:** Kevin Simorangkir 
+**Supervisor:** Kevin Simorangkir  
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
 
 

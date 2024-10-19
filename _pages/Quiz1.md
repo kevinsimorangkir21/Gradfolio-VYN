@@ -6,10 +6,10 @@ published: true
 ---
 # Basic Mathematics Tutorial 1B (MA 1104)
 
-**Locate / Place:** Gedung E Ruang E114
-**Via:** Offline
-**Date:** 18 Oktober 2024 Pkl. 14.00
-**Supervisor:** Kevin Simorangkir & Rebecca Olivia
+**Locate / Place:** Gedung E Ruang E114  
+**Via:** Offline  
+**Date:** 18 Oktober 2024 Pkl. 14.00  
+**Supervisor:** Kevin Simorangkir & Rebecca Olivia  
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
 
 ## Updates and Announcements

@@ -46,6 +46,7 @@ Kuis 1 pada Tutorial Matematika Dasar 1B ini dirancang untuk menguji pemahaman m
 - Cheatsheet harus dibuat dalam format 1 halaman A4
 - Boleh diprint/ditulis tangan
 
-#### 1.5. Himbauan
+#### 1.5. Appeal
 
-Walaupun kuisnya online diharapkan kejujuran dalam mengerjakannya. Silahkan yang tidak jujur itu urusan anda sendiri dengan sang pencipta.
+- Link Kuis akan dikirim pkl. 18.45. Silahkan persiapkan diri anda baik device atau hal lainnya
+- Walaupun kuisnya online diharapkan kejujuran dalam mengerjakannya. Silahkan yang tidak jujur itu urusan anda sendiri dengan sang pencipta.

@@ -8,7 +8,7 @@ published: true
 
 **Locate / Place:** Gedung E Ruang E114
 **Via:** Offline
-**Date:** 18 Oktober 2024
+**Date:** 18 Oktober 2024 Pkl. 14.00
 **Supervisor:** Kevin Simorangkir & Rebecca Olivia
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
 

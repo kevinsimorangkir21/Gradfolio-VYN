@@ -8,7 +8,7 @@ published: true
 
 **Locate / Place:** Based Google Form (Add On : Autoproctor)
 **Via:** Online
-**Date:** 20 Oktober 2024
+**Date:** 20 Oktober 2024 Pkl. 19.00
 **Supervisor:** Kevin Simorangkir
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
 

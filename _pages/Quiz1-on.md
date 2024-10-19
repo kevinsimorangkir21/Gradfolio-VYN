@@ -6,9 +6,9 @@ published: true
 ---
 # Basic Mathematics Tutorial 1B (MA 1104)
 
-**Locate / Place:** -
+**Locate / Place:** Based Google Form (Add On : Autoproctor)
 **Via:** Online
-**Date:** 19 Oktober 2024
+**Date:** 20 Oktober 2024
 **Supervisor:** Kevin Simorangkir
 **Quiz Properties:** Open Cheatsheet (NO Gadget)
 

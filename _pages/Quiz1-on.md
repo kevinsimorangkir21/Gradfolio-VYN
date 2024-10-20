@@ -37,8 +37,7 @@ Kuis 1 pada Tutorial Matematika Dasar 1B ini dirancang untuk menguji pemahaman m
 - Kuis akan dilaksanakan pada tanggal 20 Oktober 2024 dengan durasi 1 jam 45 menit.
 - Topik yang diujikan mencakup materi dari selama tutorial ini.
 - Diperbolehkan membuat  cheatsheet di ukuran kertas A4 (1 kertas saja boleh bolak balik).
-- Wajib menghidupkan kamera dan microphone.
-- Ikuti petunjuk autoproctor
+- Kerjakan sesuai dengan deadline yang telah ditentukan. Kuis akan tertutup otomatis di deadline tersebut. Submit sebelum deadline tersebut
 
 #### 1.4. Cheatsheet
 

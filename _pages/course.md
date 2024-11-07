@@ -7,7 +7,7 @@ published: true
 
 # 2024/2025 Courses
 
-- [MA1104 Basic Mathematics Tutorial 1B](MA1104.md)
+- [MA1104 Basic Mathematics Tutorial 1B]({{ site.baseurl }}/course/MA1104.md)
 
 # 2023/2024 Courses
 

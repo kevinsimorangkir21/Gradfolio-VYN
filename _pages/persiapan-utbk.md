@@ -8,7 +8,7 @@ published: true
 
 **Locate / Place:** Zoom Meeting / Google Meet / Other Meeting Platform  
 **Via:** Online  
-**Day:** Selasa, Kamis, dan Sabtu 
+**Day:** Selasa, Kamis, dan Sabtu  
 **Supervisor:** Kevin Simorangkir
 
 ## Updates and Announcements

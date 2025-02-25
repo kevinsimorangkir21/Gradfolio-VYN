@@ -14,6 +14,7 @@ published: true
 ## Updates and Announcements
 
 > **[21/02/2025]**: [Update Persiapan UTBK Material].
+> **[25/02/2024]**: [Update Persiapan UTBK Material, Schedule, and add menu UTBK Question].
 
 ## 1. Overview and Description
 
@@ -35,7 +36,9 @@ Preparation for UTBK 2025 meaning to prepare for the UTBK exam which is organize
 
 #### 1.3. Rules
 
-- Kelas akan dilaksanakan pada hari Selasa, Kamis, dan Sabtu
+- Kelas akan dilaksanakan pada hari Selasa dan Kamis.
+- Untuk Kelas pengganti apabila terdapat kegiatan lain akan dilaksanakan pada hari Jumat dan Sabtu.
+- Kelas akan dilaksanakan secara online menggunakan Zoom Meeting.
 - Seluruh peserta diharapkan hadir tepat waktu.
 - Peserta diharapkan mempersiapkan diri dengan baik sebelum mengikuti kelas.
 - Peserta diharapkan mempersiapkan device yang akan digunakan untuk mengikuti kelas.
@@ -54,7 +57,8 @@ Preparation for UTBK 2025 meaning to prepare for the UTBK exam which is organize
 
 ## 2. Schedule and Materials
 
-- [PPT Material](#) (Can only be accessed using ITERA Google Account)
+- [PPT Material](https://drive.google.com/drive/folders/1rSodjk9hyRDEyyg80NFB_Tnvkumwfg-E?usp=sharing)
+- [UTBK Question](#)    
 - [General Schedule](https://docs.google.com/spreadsheets/d/1OqsVV7MCLouxdbAFG2xg17QVX1eDuBIA/edit?usp=sharing&ouid=116959396725001207842&rtpof=true&sd=true)
 - [Try Out Score](#)
 
@@ -62,4 +66,6 @@ Preparation for UTBK 2025 meaning to prepare for the UTBK exam which is organize
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------- |
 | 1 | Selasa                                                                                    | Penalaran Umum           | Online (Zoom)                                                                           |
 | 1    | Jumat                                                                                                                   | Pengetahuan Kuantitatif           | Online (Zoom)                                                                           |
-| 1    | Sabtu                                                                                                                               | Penalaran Matematika           | Online (Zoom)                                                                           |
+| 2    | Kamis                                                                                                                               | Pengetahuan dan Pemahaman Umum           | Online (Zoom)                                                                           |
+| 2    | Jumat                                                                                                                               | Konsultasi Umum          | Online (Zoom)                                                                           |
+| 2    | Sabtu                                                                                                                               | Penalaran Umum          | Online (Zoom)                                                                          |   

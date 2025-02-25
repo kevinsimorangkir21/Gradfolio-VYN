@@ -13,7 +13,8 @@ published: true
 
 ## Updates and Announcements
 
-> **[21/02/2025]**: [Update Persiapan UTBK Material].
+> **[21/02/2025]**: [Update Persiapan UTBK Material].  
+
 > **[25/02/2024]**: [Update Persiapan UTBK Material, Schedule, and add menu UTBK Question].
 
 ## 1. Overview and Description
